@@ -1,4 +1,16 @@
+# To Do App With Redux
+
+
+
+![todo](public/img/todop.PNG)
+
+
+![todo](public/img/todop2.PNG)
+
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
